@@ -2,7 +2,7 @@
 
 This is a demo project to explain C4 model of architecture documentation.
 
-For more info, see: BLOG_URL_GOES_HERE
+For more info, see: [c4-model blog](https://msound.net/blog/2024/06/c4-model/)
 
 ## Context Diagram
 
